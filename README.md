@@ -1,4 +1,5 @@
 # Reference
+
 Valeria Kebets, Camille Piguet, Jianzhong Chen, Leon Qi Rong Ooi, Matthias Kirschner, Vanessa Siffredi, Bratislav Misic, B.T. Thomas Yeo, Boris C. Bernhardt (2023). **Multimodal neural correlates of childhood psychopathology** (*Biorxiv*).
 
 DOI: [https://doi.org/10.1101/2023.03.02.530821](https://www.biorxiv.org/content/10.1101/2023.03.02.530821v1)
