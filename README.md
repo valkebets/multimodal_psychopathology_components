@@ -1,3 +1,5 @@
+Welcome to the repository to reproduce the main findings from our paper, Multimodal neural correlates of childhood psychopathology, published in eLife.
+
 
 # Reference
 
