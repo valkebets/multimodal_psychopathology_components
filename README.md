@@ -1,7 +1,7 @@
 Welcome to the repository to reproduce the main findings from our paper, Multimodal neural correlates of childhood psychopathology, published in eLife.
 
 
-# Reference
+# Reference
 
 Jessica Royer, Valeria Kebets, Camille Piguet, Jianzhong Chen, Leon Qi Rong Ooi, Matthias Kirschner, Vanessa Siffedi, Bratislav Misic, BT Thomas Yeo, Boris C Bernhardt (2024). **Multimodal neural correlates of childhood psychopathology** (*eLife*).
 
@@ -26,5 +26,6 @@ We simultaneously examined structural and functional brain network patterns in r
 * 07/03/2023 : Initial release
 
 ## Bugs and questions
-Please contact Valeria Kebets at valkebets@gmail.com
-
+Please contact: 
+* Valeria Kebets at valkebets[at]gmail[dot]com, or 
+* Jessica Royer at jessica[dot]royer[at]mail[dot]mcgill[dot]ca
