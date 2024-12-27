@@ -1,8 +1,9 @@
+
 # Reference
 
-Valeria Kebets, Camille Piguet, Jianzhong Chen, Leon Qi Rong Ooi, Matthias Kirschner, Vanessa Siffredi, Bratislav Misic, B.T. Thomas Yeo, Boris C. Bernhardt (2023). **Multimodal neural correlates of childhood psychopathology** (*Biorxiv*).
+Jessica Royer, Valeria Kebets, Camille Piguet, Jianzhong Chen, Leon Qi Rong Ooi, Matthias Kirschner, Vanessa Siffedi, Bratislav Misic, BT Thomas Yeo, Boris C Bernhardt (2024). **Multimodal neural correlates of childhood psychopathology** (*eLife*).
 
-DOI: [https://doi.org/10.1101/2023.03.02.530821](https://www.biorxiv.org/content/10.1101/2023.03.02.530821v1)
+DOI: [https://doi.org/10.7554/eLife.87992](https://elifesciences.org/articles/87992)
 
 
 # Abstract
@@ -19,6 +20,7 @@ We simultaneously examined structural and functional brain network patterns in r
 * `figures` contains the code to generate the figures of our paper
 
 ## Updates
+* 27/12/2024 : Updated reference
 * 07/03/2023 : Initial release
 
 ## Bugs and questions
